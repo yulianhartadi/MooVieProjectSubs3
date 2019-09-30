@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MooVieProjectSubs3</string>
+    <string name="app_name">MooVieSubs3</string>
+
+    <string name="bottom_navigation_border">Bottom navigation border</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
